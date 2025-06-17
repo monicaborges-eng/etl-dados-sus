@@ -1,2 +1,1 @@
-# etl-dados-sus
-Projeto de ETL com dados públicos do SUS sobre saúde ocupacional
+# Projeto de ETL com dados da saúde ocupacional - SUS
